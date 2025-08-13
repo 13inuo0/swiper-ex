@@ -22,7 +22,7 @@ window.addEventListener("load", function () {
     loop:true,
     slidesPerView: 1.5,
     spaceBetween:20,
-    breackpoints: {
+    breakpoints: {
         590:{
                 slidesPerView: 2.5
         },
